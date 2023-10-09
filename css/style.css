@@ -76,7 +76,7 @@ opacity: 4;
   }
   #home::before{
 content: "";
-background-image: url('/img/bg2.png');
+background-image: url('img/bg2.png');
 background-repeat:no-repeat;
 background-position:center center;
 position: absolute;
@@ -160,7 +160,7 @@ opacity: 0.89;
   #client-section::before{
     content: "";
     position: absolute;
-    background-image: url('/img/bg1.jpg');
+    background-image: url('img/bg1.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     height: 51%;
@@ -184,7 +184,7 @@ opacity: 0.89;
     position: absolute;
     z-index: -1;
     opacity: 0.4;
-    background-image: url('/img/contact.jpg');
+    background-image: url('img/contact.jpg');
     background-repeat: no-repeat;
     background-position: center center;
 }
