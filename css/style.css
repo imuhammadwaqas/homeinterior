@@ -160,7 +160,7 @@ opacity: 0.89;
   #client-section::before{
     content: "";
     position: absolute;
-    background-image: url('./img/bg1.jpg');
+    background-image: url('https://imuhammadwaqas.github.io/homeinterior/img/bg1.jpg');
     background-repeat: no-repeat;
     background-position: center center;
     height: 51%;
